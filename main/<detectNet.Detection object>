@@ -1,0 +1,13 @@
+<detectNet.Detection object>
+   -- ClassID: 76
+   -- Confidence: 0.821331
+   -- Left:    52.4546
+   -- Top:     200.047
+   -- Right:   638.325
+   -- Bottom:  355.714
+   -- Width:   585.87
+   -- Height:  155.667
+   -- Area:    91200.3
+   -- Center:  (345.39, 277.88)
+
+   ClassId for human == 1
